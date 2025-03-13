@@ -16,3 +16,4 @@ timestamp,city,aqi,weather_condition,wind_speed,humidity,temperature,uv_index,pm
 2025-03-14T00:10:32.222584+07:00,Hải Phòng,64,Mist,11 km/h,96 %,21°C,0,16 µg/m³,31 µg/m³,12 ppb,11 ppb,4 ppb,522 ppb
 2025-03-14T01:16:53.669795+07:00,Hải Phòng,78,Patchy rain nearby,10 km/h,94 %,22°C,0,23 µg/m³,42 µg/m³,14 ppb,14 ppb,4 ppb,371 ppb
 2025-03-14T02:10:27.674819+07:00,Hải Phòng,78,Patchy rain nearby,10 km/h,94 %,22°C,0,23 µg/m³,42 µg/m³,14 ppb,14 ppb,4 ppb,371 ppb
+2025-03-14T03:14:50.097293+07:00,Hải Phòng,78,Mist,9 km/h,95 %,22°C,0,23 µg/m³,42 µg/m³,14 ppb,14 ppb,4 ppb,371 ppb
