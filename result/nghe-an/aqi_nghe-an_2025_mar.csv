@@ -14,3 +14,4 @@ timestamp,city,aqi,weather_condition,wind_speed,humidity,temperature,uv_index,pm
 2025-03-13T22:14:19.223274+07:00,Nghệ An,56,Mist,6 km/h,96 %,23°C,0,12 µg/m³,41 µg/m³,6 ppb,32 ppb,14 ppb,295 ppb
 2025-03-13T23:15:47.687959+07:00,Nghệ An,56,Mist,6 km/h,96 %,23°C,0,12 µg/m³,41 µg/m³,6 ppb,32 ppb,14 ppb,295 ppb
 2025-03-14T00:10:37.363536+07:00,Nghệ An,56,Mist,6 km/h,96 %,23°C,0,12 µg/m³,41 µg/m³,6 ppb,32 ppb,14 ppb,295 ppb
+2025-03-14T01:16:58.680398+07:00,Nghệ An,68,Fog,5 km/h,97 %,22°C,0,18 µg/m³,40 µg/m³,6 ppb,30 ppb,15 ppb,638 ppb

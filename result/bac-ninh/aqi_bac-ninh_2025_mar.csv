@@ -14,3 +14,4 @@ timestamp,city,aqi,weather_condition,wind_speed,humidity,temperature,uv_index,pm
 2025-03-13T22:14:29.668913+07:00,Bắc Ninh,71,Overcast,17 km/h,94 %,23°C,0,20 µg/m³,42 µg/m³,8 ppb,13 ppb,3 ppb,222 ppb
 2025-03-13T23:15:59.078737+07:00,Bắc Ninh,67,Overcast,17 km/h,94 %,23°C,0,18 µg/m³,33 µg/m³,9 ppb,11 ppb,4 ppb,149 ppb
 2025-03-14T00:10:47.277092+07:00,Bắc Ninh,67,Overcast,17 km/h,94 %,23°C,0,18 µg/m³,33 µg/m³,9 ppb,11 ppb,4 ppb,149 ppb
+2025-03-14T01:17:08.721394+07:00,Bắc Ninh,74,Overcast,17 km/h,94 %,23°C,0,21 µg/m³,39 µg/m³,10 ppb,12 ppb,5 ppb,219 ppb
