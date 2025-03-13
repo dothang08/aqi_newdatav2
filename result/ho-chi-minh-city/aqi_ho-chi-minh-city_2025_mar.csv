@@ -1,0 +1,2 @@
+timestamp,city,aqi,weather_condition,wind_speed,humidity,temperature,uv_index,pm25,pm10,o3,no2,so2,co
+2025-03-13T10:48:48.305735+07:00,Hồ Chí Minh,31,Sunny,20 km/h,53 %,31°C,6,5 µg/m³,30 µg/m³,9 ppb,10 ppb,8 ppb,355 ppb

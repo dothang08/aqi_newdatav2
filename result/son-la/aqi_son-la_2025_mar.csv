@@ -1,0 +1,2 @@
+timestamp,city,aqi,weather_condition,wind_speed,humidity,temperature,uv_index,pm25,pm10,o3,no2,so2,co
+2025-03-13T10:49:07.889844+07:00,Sơn La,60,Sunny,7 km/h,49 %,28°C,7,14 µg/m³,29 µg/m³,17 ppb,19 ppb,5 ppb,507 ppb

@@ -1,0 +1,2 @@
+timestamp,city,aqi,weather_condition,wind_speed,humidity,temperature,uv_index,pm25,pm10,o3,no2,so2,co
+2025-03-13T10:48:53.269976+07:00,Đà Nẵng,66,Partly cloudy,7 km/h,84 %,27°C,6,17 µg/m³,49 µg/m³,12 ppb,14 ppb,16 ppb,428 ppb
