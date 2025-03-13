@@ -9,3 +9,4 @@ timestamp,city,aqi,weather_condition,wind_speed,humidity,temperature,uv_index,pm
 2025-03-13T17:13:41.338779+07:00,Hồ Chí Minh,40,Partly cloudy,28 km/h,47 %,34°C,2,5 µg/m³,44 µg/m³,10 ppb,10 ppb,11 ppb,502 ppb
 2025-03-13T18:10:54.492428+07:00,Hồ Chí Minh,,,,,,,N/A,N/A,N/A,N/A,N/A,N/A
 2025-03-13T19:23:46.388706+07:00,Hồ Chí Minh,39,Clear,23 km/h,49 %,32°C,0,7 µg/m³,25 µg/m³,11 ppb,11 ppb,8 ppb,392 ppb
+2025-03-13T20:21:49.908963+07:00,Hồ Chí Minh,39,Clear,23 km/h,49 %,32°C,0,7 µg/m³,25 µg/m³,11 ppb,11 ppb,8 ppb,392 ppb
