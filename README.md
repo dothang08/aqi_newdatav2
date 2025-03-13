@@ -26,7 +26,13 @@ Dự án sử dụng bot tự động để thu thập dữ liệu từ trang we
 - Tốc độ gió
 - Độ ẩm
 - Nhiệt độ
-
+- pm25
+- pm10
+- o3
+- no2
+- so2
+- co
+- uv
 ### Cấu trúc dữ liệu chi tiết
 
 Dữ liệu được tổ chức theo cấu trúc thư mục:
@@ -52,12 +58,18 @@ Mỗi file CSV chứa các cột dữ liệu:
 - `wind_speed`: Tốc độ gió
 - `humidity`: Độ ẩm
 - `temperature`: Nhiệt độ
-
+- `pm25`: Bụi mịn PM2.5 
+- `pm10`: Bụi mịn PM10
+- `o3`: Ozone
+- `no2`: Nitrogen dioxide (NO2).
+- `so2`: Sulfur dioxide (SO2)
+- `co`: Carbon monoxide (CO)
+- `uv_index`: Chỉ số tia UV
 ## Hướng dẫn sử dụng
 
 1. Clone repository này về máy:
 ```bash
-git clone https://github.com/nghiahsgs/iqair-dataset.git
+git clone https://github.com/dothang08/iqair-dataset.git
 ```
 
 2. Dữ liệu thô được lưu trong thư mục `result/` dưới định dạng CSV
@@ -74,7 +86,7 @@ git clone https://github.com/nghiahsgs/iqair-dataset.git
 
 1. Clone repository về máy:
 ```bash
-git clone https://github.com/nghiahsgs/iqair-dataset.git
+git clone https://github.com/dothang08/iqair-dataset.git
 cd iqair-dataset
 ```
 
