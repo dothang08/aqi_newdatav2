@@ -7,3 +7,4 @@ timestamp,city,aqi,weather_condition,wind_speed,humidity,temperature,uv_index,pm
 2025-03-13T15:17:32.507756+07:00,Sơn La,56,Patchy rain nearby,8 km/h,32 %,32°C,9,12 µg/m³,25 µg/m³,17 ppb,15 ppb,4 ppb,426 ppb
 2025-03-13T16:13:57.490084+07:00,Sơn La,56,Patchy rain nearby,8 km/h,32 %,32°C,9,12 µg/m³,25 µg/m³,17 ppb,15 ppb,4 ppb,426 ppb
 2025-03-13T17:14:00.985053+07:00,Sơn La,50,Sunny,8 km/h,28 %,32°C,2,9 µg/m³,27 µg/m³,16 ppb,15 ppb,3 ppb,417 ppb
+2025-03-13T18:11:15.124722+07:00,Sơn La,50,Sunny,8 km/h,28 %,32°C,2,9 µg/m³,27 µg/m³,16 ppb,15 ppb,3 ppb,417 ppb

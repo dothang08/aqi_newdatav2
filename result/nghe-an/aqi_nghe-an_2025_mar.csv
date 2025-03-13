@@ -7,3 +7,4 @@ timestamp,city,aqi,weather_condition,wind_speed,humidity,temperature,uv_index,pm
 2025-03-13T15:17:27.325438+07:00,Nghệ An,63,Partly Cloudy,10 km/h,74 %,28°C,10,16 µg/m³,42 µg/m³,9 ppb,23 ppb,10 ppb,388 ppb
 2025-03-13T16:13:52.429269+07:00,Nghệ An,63,Partly Cloudy,10 km/h,74 %,28°C,10,16 µg/m³,42 µg/m³,9 ppb,23 ppb,10 ppb,388 ppb
 2025-03-13T17:13:56.628046+07:00,Nghệ An,68,Patchy rain nearby,16 km/h,76 %,27°C,7,18 µg/m³,35 µg/m³,8 ppb,26 ppb,16 ppb,394 ppb
+2025-03-13T18:11:09.299542+07:00,Nghệ An,68,Patchy rain nearby,16 km/h,76 %,27°C,7,18 µg/m³,35 µg/m³,8 ppb,26 ppb,16 ppb,394 ppb
