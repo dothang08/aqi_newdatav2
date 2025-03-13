@@ -19,3 +19,4 @@ timestamp,city,aqi,weather_condition,wind_speed,humidity,temperature,uv_index,pm
 2025-03-14T03:15:41.242759+07:00,Sơn La,65,Clear,8 km/h,85 %,20°C,0,17 µg/m³,28 µg/m³,17 ppb,13 ppb,3 ppb,427 ppb
 2025-03-14T04:11:58.629695+07:00,Sơn La,65,Clear,8 km/h,85 %,20°C,0,17 µg/m³,28 µg/m³,17 ppb,13 ppb,3 ppb,427 ppb
 2025-03-14T05:11:33.102925+07:00,Sơn La,65,Clear,8 km/h,85 %,20°C,0,17 µg/m³,28 µg/m³,17 ppb,13 ppb,3 ppb,427 ppb
+2025-03-14T06:12:05.445431+07:00,Sơn La,59,Clear,8 km/h,90 %,19°C,0,13 µg/m³,28 µg/m³,16 ppb,12 ppb,4 ppb,466 ppb
