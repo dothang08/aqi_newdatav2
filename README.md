@@ -75,40 +75,6 @@ git clone https://github.com/dothang08/iqair-dataset.git
 2. Dữ liệu thô được lưu trong thư mục `result/` dưới định dạng CSV
 3. Bạn có thể sử dụng các công cụ như Power BI, Python, R để phân tích và trực quan hóa dữ liệu
 
-## Hướng dẫn cài đặt và chạy dự án
-
-### Yêu cầu hệ thống
-- Python 3.8 trở lên
-- pip (Python package installer)
-- Chromium browser (sẽ được cài đặt tự động)
-
-### Các bước cài đặt
-
-1. Clone repository về máy:
-```bash
-git clone https://github.com/dothang08/iqair-dataset.git
-cd iqair-dataset
-```
-
-2. Cài đặt các thư viện cần thiết:
-```bash
-pip install -r requirements.txt
-```
-
-3. Cài đặt Chromium cho Playwright:
-```bash
-playwright install chromium
-```
-
-### Chạy dự án
-
-1. Chạy script crawl dữ liệu:
-```bash
-python crawl_iqair.py
-```
-
-2. Dữ liệu sau khi crawl sẽ được lưu vào thư mục `result/` dưới dạng file CSV
-
 ### Lưu ý
 - Script được thiết kế để chạy tự động mỗi giờ thông qua GitHub Actions
 - Bạn có thể tùy chỉnh tần suất cập nhật trong file `.github/workflows/crawl.yml`
