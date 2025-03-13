@@ -17,3 +17,4 @@ timestamp,city,aqi,weather_condition,wind_speed,humidity,temperature,uv_index,pm
 2025-03-14T01:16:58.680398+07:00,Nghệ An,68,Fog,5 km/h,97 %,22°C,0,18 µg/m³,40 µg/m³,6 ppb,30 ppb,15 ppb,638 ppb
 2025-03-14T02:10:32.442952+07:00,Nghệ An,68,Fog,5 km/h,97 %,22°C,0,18 µg/m³,40 µg/m³,6 ppb,30 ppb,15 ppb,638 ppb
 2025-03-14T03:15:06.369085+07:00,Nghệ An,80,Fog,5 km/h,97 %,22°C,0,24 µg/m³,50 µg/m³,12 ppb,23 ppb,28 ppb,379 ppb
+2025-03-14T04:11:54.799323+07:00,Nghệ An,80,Fog,5 km/h,97 %,22°C,0,24 µg/m³,50 µg/m³,12 ppb,23 ppb,28 ppb,379 ppb
