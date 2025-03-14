@@ -27,3 +27,4 @@ timestamp,city,aqi,weather_condition,wind_speed,humidity,temperature,uv_index,pm
 2025-03-14T12:12:15.673225+07:00,Đà Nẵng,60,Partly cloudy,10 km/h,79 %,28°C,5,14 µg/m³,40 µg/m³,10 ppb,12 ppb,15 ppb,390 ppb
 2025-03-14T13:17:14.880955+07:00,Đà Nẵng,68,Partly cloudy,13 km/h,75 %,30°C,11,18 µg/m³,52 µg/m³,14 ppb,13 ppb,12 ppb,451 ppb
 2025-03-14T14:12:10.623589+07:00,Đà Nẵng,68,Partly cloudy,13 km/h,75 %,30°C,11,18 µg/m³,52 µg/m³,14 ppb,13 ppb,12 ppb,451 ppb
+2025-03-14T15:16:06.191465+07:00,Đà Nẵng,43,Partly cloudy,17 km/h,66 %,30°C,8,8 µg/m³,40 µg/m³,14 ppb,14 ppb,10 ppb,344 ppb
