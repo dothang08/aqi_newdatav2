@@ -1,4 +1,4 @@
-# Dự Án Thu Thập Dữ Liệu Chất Lượng Không Khí
+# Dự Án Thu Thập Dữ Liệu Chất Lượng Không Khí (aqi.in)
 
 ## Giới thiệu
 
@@ -65,15 +65,6 @@ Mỗi file CSV chứa các cột dữ liệu:
 - `so2`: Sulfur dioxide (SO2)
 - `co`: Carbon monoxide (CO)
 - `uv_index`: Chỉ số tia UV
-## Hướng dẫn sử dụng
-
-1. Clone repository này về máy:
-```bash
-git clone https://github.com/dothang08/iqair-dataset.git
-```
-
-2. Dữ liệu thô được lưu trong thư mục `result/` dưới định dạng CSV
-3. Bạn có thể sử dụng các công cụ như Power BI, Python, R để phân tích và trực quan hóa dữ liệu
 
 ### Lưu ý
 - Script được thiết kế để chạy tự động mỗi giờ thông qua GitHub Actions
