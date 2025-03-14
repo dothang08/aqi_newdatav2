@@ -25,3 +25,4 @@ timestamp,city,aqi,weather_condition,wind_speed,humidity,temperature,uv_index,pm
 2025-03-14T10:23:46.073298+07:00,Sơn La,58,Sunny,4 km/h,65 %,24°C,2,13 µg/m³,33 µg/m³,15 ppb,14 ppb,3 ppb,434 ppb
 2025-03-14T11:14:50.321195+07:00,Sơn La,58,Sunny,4 km/h,65 %,24°C,2,13 µg/m³,33 µg/m³,15 ppb,14 ppb,3 ppb,434 ppb
 2025-03-14T12:12:30.004823+07:00,Sơn La,61,Sunny,4 km/h,36 %,32°C,7,15 µg/m³,34 µg/m³,18 ppb,13 ppb,4 ppb,429 ppb
+2025-03-14T13:17:30.903969+07:00,Sơn La,60,Sunny,8 km/h,27 %,33°C,9,14 µg/m³,25 µg/m³,16 ppb,13 ppb,4 ppb,389 ppb
