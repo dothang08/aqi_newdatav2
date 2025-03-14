@@ -24,3 +24,4 @@ timestamp,city,aqi,weather_condition,wind_speed,humidity,temperature,uv_index,pm
 2025-03-14T09:19:55.289830+07:00,Hồ Chí Minh,59,Sunny,10 km/h,84 %,26°C,1,14 µg/m³,46 µg/m³,12 ppb,10 ppb,8 ppb,651 ppb
 2025-03-14T10:23:24.260707+07:00,Hồ Chí Minh,37,Sunny,11 km/h,59 %,31°C,6,7 µg/m³,31 µg/m³,12 ppb,9 ppb,8 ppb,428 ppb
 2025-03-14T11:14:32.690059+07:00,Hồ Chí Minh,37,Sunny,11 km/h,59 %,31°C,6,7 µg/m³,31 µg/m³,12 ppb,9 ppb,8 ppb,428 ppb
+2025-03-14T12:12:10.339937+07:00,Hồ Chí Minh,32,Sunny,11 km/h,56 %,32°C,10,5 µg/m³,36 µg/m³,11 ppb,10 ppb,7 ppb,440 ppb
